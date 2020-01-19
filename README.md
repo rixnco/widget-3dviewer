@@ -1,5 +1,5 @@
 # com-chilipeppr-widget-3dviewer
-Visualize your GCode in 3D by simulating your GCode run or seeing where your run is at in 3D while your CNC operation is in action.
+Visualize your GCode in 3D by simulating your GCode run or seeing where your run is at in 3D while your CNC operation is in action!
 
 ![alt text](screenshot.png "Screenshot")
 
